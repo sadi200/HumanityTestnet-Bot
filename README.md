@@ -43,7 +43,7 @@ pip install -r requirements.txt
 screen -S HumanityTestnet-Bot
 ```
 
-### 5. Run the Bot
+### 6. Run the Bot
 Once everything is set up, you can run the bot with the following command:
 
 ```bash
