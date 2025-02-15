@@ -28,7 +28,6 @@ Create a private_keys.txt file in the root directory of the project. This file s
 
 ```python
 nano private_keys.txt 
-...
 ```
 
 ### 4. Install Required Dependencies
