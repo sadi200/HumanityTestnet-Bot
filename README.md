@@ -37,6 +37,12 @@ Make sure you have Python installed on your system. Then, install the required d
 pip install -r requirements.txt
 ```
 
+### 5. Screen Your VPS
+
+```bash
+screen -S HumanityTestnet-Bot
+```
+
 ### 5. Run the Bot
 Once everything is set up, you can run the bot with the following command:
 
